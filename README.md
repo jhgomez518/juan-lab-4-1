@@ -10,18 +10,18 @@ Reflection Questions
 
 2. What challenges did you face while incorporating conditional logic in your functions?
 
-    I am pretty sure there was a more elgant way of writing out my conditionals in a way that did not heavily rely on
+    I am pretty sure there was a more elegant way of writing out my conditionals in a way that did not heavily rely on
     a long string of "or" statement (>2) in the way I ended up doing. For the purposes of this exercise, I was mostly
-    interested in getting the right outcome more than landig on the most "eloquent" solution. Of course I will try to
+    interested in getting the right outcome more than landing on the most "eloquent" solution. Of course I will try to
     improve with time, but it was also useful/interesting to discover the natural tendencies of my reasoning
     when it comes to thinking through conditional logic.
 
 3. How does refactoring improve the readability and maintainability of your code?
 
-    I only re-factored in the last exercise, where I had to include a new optional variable. In this sense, we can
-    say that re-factoring makes code more maintainable insofar as it account for more scenarios. If one were to endlessly
-    expand on the groundwork of their logic WITHOUT considering as many scenarios as possible, then this would result in a lot
-    of backtracking and extra code. So it is important to re-factor early and then consistently in order to optimize
-    the maintainability of your code.
+    I only re-factored in the last exercise, where I had to include a new optional parameter. In this sense, we can
+    say that re-factoring makes code more maintainable insofar as it accounts for more scenarios. If one were to endlessly
+    expand on the groundwork of their logic WITHOUT frequently pausing to consider as many scenarios as possible, this
+    would result in a lot of backtracking and extra work. It is therefore important to re-factor early and then consistently
+    in order to optimize the maintainability of your code.
 
 P.S. Forgot to commit consistently while completing assignment. Sorry about that.
