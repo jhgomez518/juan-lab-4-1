@@ -23,3 +23,5 @@ Reflection Questions
     expand on the groundwork of their logic WITHOUT considering as many scenarios as possible, then this would result in a lot
     of backtracking and extra code. So it is important to re-factor early and then consistently in order to optimize
     the maintainability of your code.
+
+P.S. Forgot to commit consistently while completing assignment. Sorry about that.
